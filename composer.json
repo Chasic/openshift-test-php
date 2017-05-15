@@ -1,0 +1,16 @@
+{
+    "name": "Chasic/openshift-test-php",
+    "version": "1.0.0",
+    "minimum-stability": "dev",
+    "autoload": {
+        "psr-4": {}
+    },
+    "require": {
+        "nette/di": "v3.0.0-alpha1",
+        "nette/utils": "v3.0.0-beta1"
+    },
+    "require-dev": {
+        "nette/tester": "^1.7",
+        "janmarek/mockista": "dev-master"
+    }
+}
